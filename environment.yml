@@ -1,0 +1,11 @@
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pip
+    - setuptools
+    - matplotlib
+    - numpy
+    - jupyterlab
+    - pip:
+      - jupyterlab_latex
